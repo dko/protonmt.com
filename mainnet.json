@@ -1,0 +1,73 @@
+{
+  "org": {
+    "candidate_name": "Proton MT",
+    "website": "https://protonmt.com",
+    "code_of_conduct": "https://protonmt.com",
+    "ownership_disclosure": "https://protonmt.com",
+    "email": "dan@protonmt.com",
+    "github_user": [],
+    "chain_resources": "",
+    "other_resources": [],
+    "branding": {
+      "logo_256": "https://protonmt.com/imgs/logo_256.png",
+      "logo_1024": "https://protonmt.com/imgs/logo_1024.png",
+      "logo_svg": ""
+    },
+    "location": {
+      "name": "Montana",
+      "country": "US",
+      "latitude": 45.676998,
+      "longitude": -111.042931
+    },
+    "social": {
+      "keybase": "",
+      "telegram": "protonmt",
+      "twitter": "proton_mt",
+      "github": "",
+      "youtube": "",
+      "facebook": "",
+      "hive": "",
+      "reddit": "",
+      "wechat": "",
+      "medium": "",
+      "discord": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Montana",
+        "country": "US",
+        "latitude": 45.676998,
+        "longitude": -111.042931
+      },
+      "node_type": "seed",
+      "full": true,
+      "p2p_endpoint": "p2p.protonmt.com:9876"
+    },
+    {
+      "location": {
+        "name": "Montana",
+        "country": "US",
+        "latitude": 45.676998,
+        "longitude": -111.042931
+      },
+      "node_type": "producer",
+      "full": false
+    },
+    {
+      "location": {
+        "name": "Montana",
+        "country": "US",
+        "latitude": 45.676998,
+        "longitude": -111.042931
+      },
+      "node_type": "query",
+      "full": true,
+      "api_endpoint": "http://api.protonmt.com",
+      "ssl_endpoint": "https://api.protonmt.com",
+      "features": ["chain-api", "account-query"]
+    }
+  ],
+  "producer_account_name": "protonmt"
+}
