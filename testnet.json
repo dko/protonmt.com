@@ -37,8 +37,8 @@
         "latitude": 45.676998,
         "longitude": -111.042931
       },
-      "api_endpoint": "http://api.test.bp.protonmt.com",
-      "ssl_endpoint": "https://api.test.bp.protonmt.com",
+      "api_endpoint": "http://api.test.protonmt.com",
+      "ssl_endpoint": "https://api.test.protonmt.com",
       "node_type": "query",
       "full": true,
       "features": [
@@ -53,7 +53,7 @@
         "latitude": 45.676998,
         "longitude": -111.042931
       },
-      "p2p_endpoint": "p2p.test.bp.protonmt.com:9876",
+      "p2p_endpoint": "p2p.test.protonmt.com:9876",
       "node_type": "seed",
       "full": true
     },
